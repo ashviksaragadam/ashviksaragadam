@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Ashvik! 👋
 
-<!--
-**ashviksaragadam/ashviksaragadam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech Chemical Engineering Student
 
-Here are some ideas to get you started:
+I'm an undergraduate student interested in exploring the intersection of Chemical Engineering, Programming, and Technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+- 🌱 Currently learning C Programming
+- 🧪 Exploring Chemical Engineering concepts
+- 💻 Interested in computational engineering and technology
+- 📚 Continuously learning new technical skills
+- 🎯 Aspiring to build practical engineering projects
+
+### 🛠️ Skills & Learning
+- C Programming
+- DWSIM
+- Python and Technical skills
+
+### 🔬 Areas of Interest
+- Chemical Engineering
+- Computational Engineering
+- Process Simulation
+- Scientific Computing
+- Research and Innovation

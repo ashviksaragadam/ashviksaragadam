@@ -14,7 +14,8 @@ I'm an undergraduate student interested in exploring the intersection of Chemica
 ### 🛠️ Skills & Learning
 - C Programming
 - DWSIM
-- Python and Technical skills
+- MATLAB
+- Python
 
 ### 🔬 Areas of Interest
 - Chemical Engineering
